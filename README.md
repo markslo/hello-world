@@ -1,2 +1,2 @@
 # hello-world
-Another test repo
+Hello there. I am new to GitHub.
